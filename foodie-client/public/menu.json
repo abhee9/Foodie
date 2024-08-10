@@ -1,0 +1,562 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Margherita Pizza",
+        "recipe": "Tomato sauce, mozzarella, and basil",
+        "image": "/images/recipes/img1.png",
+        "category": "Pizza",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Pepperoni Pizza",
+        "recipe": "Tomato sauce, mozzarella, and pepperoni",
+        "image": "/images/recipes/img2.png",
+        "category": "Pizza",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "BBQ Chicken Pizza",
+        "recipe": "BBQ sauce, chicken, and red onions",
+        "image": "/images/recipes/img3.png",
+        "category": "Pizza",
+        "price": 10.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Veggie Supreme Pizza",
+        "recipe": "Tomato sauce, mozzarella, and mixed vegetables",
+        "image": "/images/recipes/img4.png",
+        "category": "Pizza",
+        "price": 9.49
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Hawaiian Pizza",
+        "recipe": "Tomato sauce, mozzarella, ham, and pineapple",
+        "image": "/images/recipes/img5.png",
+        "category": "Pizza",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Four Cheese Pizza",
+        "recipe": "Mozzarella, cheddar, parmesan, and blue cheese",
+        "image": "/images/recipes/img6.png",
+        "category": "Pizza",
+        "price": 11.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Seafood Pizza",
+        "recipe": "Tomato sauce, mozzarella, shrimp, and calamari",
+        "image": "/images/recipes/img7.png",
+        "category": "Pizza",
+        "price": 12.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36e812",
+        "name": "Chicken Alfredo Pizza",
+        "recipe": "Alfredo sauce, mozzarella, and chicken",
+        "image": "/images/recipes/img8.png",
+        "category": "Pizza",
+        "price": 10.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Buffalo Chicken Pizza",
+        "recipe": "Buffalo sauce, mozzarella, and chicken",
+        "image": "/images/recipes/img9.png",
+        "category": "Pizza",
+        "price": 10.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Meat Lovers Pizza",
+        "recipe": "Tomato sauce, mozzarella, pepperoni, sausage, and bacon",
+        "image": "/images/recipes/img10.png",
+        "category": "Pizza",
+        "price": 11.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb2",
+        "name": "Mushroom Pizza",
+        "recipe": "Tomato sauce, mozzarella, and mushrooms",
+        "image": "/images/recipes/img11.png",
+        "category": "popular",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Taco Pizza",
+        "recipe": "Tomato sauce, mozzarella, ground beef, and taco seasoning",
+        "image": "/images/recipes/img12.png",
+        "category": "Pizza",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Pesto Pizza",
+        "recipe": "Pesto sauce, mozzarella, and cherry tomatoes",
+        "image": "/images/recipes/img13.png",
+        "category": "Pizza",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Spinach and Artichoke Pizza",
+        "recipe": "Spinach, artichokes, mozzarella, and parmesan",
+        "image": "/images/recipes/img14.png",
+        "category": "Pizza",
+        "price": 10.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Caesar Salad",
+        "recipe": "Romaine lettuce, croutons, and Caesar dressing",
+        "image": "/images/recipes/img15.png",
+        "category": "Salad",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Greek Salad",
+        "recipe": "Cucumber, tomatoes, olives, and feta cheese",
+        "image": "/images/recipes/img16.png",
+        "category": "Salad",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Garden Salad",
+        "recipe": "Mixed greens, cherry tomatoes, cucumbers, and carrots",
+        "image": "/images/recipes/img17.png",
+        "category": "Salad",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec3",
+        "name": "Chicken Salad",
+        "recipe": "Romaine lettuce, grilled chicken, croutons, and Caesar dressing",
+        "image": "/images/recipes/img18.png",
+        "category": "Salad",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebc",
+        "name": "Cobb Salad",
+        "recipe": "Mixed greens, chicken, bacon, avocado, and blue cheese",
+        "image": "/images/recipes/img19.png",
+        "category": "Salad",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebd",
+        "name": "Quinoa Salad",
+        "recipe": "Quinoa, chickpeas, cucumbers, and feta cheese",
+        "image": "/images/recipes/img20.png",
+        "category": "Salad",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec2",
+        "name": "Spinach Salad",
+        "recipe": "Spinach, strawberries, goat cheese, and balsamic dressing",
+        "image": "/images/recipes/img21.png",
+        "category": "Salad",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebe",
+        "name": "Asian Salad",
+        "recipe": "Mixed greens, chicken, mandarin oranges, and sesame dressing",
+        "image": "/images/recipes/img22.png",
+        "category": "Salad",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebf",
+        "name": "Avocado Salad",
+        "recipe": "Mixed greens, avocado, cherry tomatoes, and lime dressing",
+        "image": "/images/recipes/img23.png",
+        "category": "Salad",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec0",
+        "name": "Fruit Salad",
+        "recipe": "Mixed seasonal fruits",
+        "image": "/images/recipes/img24.png",
+        "category": "Salad",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec1",
+        "name": "Taco Salad",
+        "recipe": "Mixed greens, ground beef, cheese, and taco dressing",
+        "image": "/images/recipes/img25.png",
+        "category": "Salad",
+        "price": 9.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebb",
+        "name": "Caprese Salad",
+        "recipe": "Tomatoes, mozzarella, and basil with balsamic glaze",
+        "image": "/images/recipes/img26.png",
+        "category": "Salad",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec4",
+        "name": "Beet Salad",
+        "recipe": "Beets, mixed greens, goat cheese, and walnuts",
+        "image": "/images/recipes/img27.png",
+        "category": "Salad",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec5",
+        "name": "Salmon Salad",
+        "recipe": "Mixed greens, grilled salmon, cherry tomatoes, and lemon dressing",
+        "image": " /images/recipes/img28.png",
+        "category": "Salad",
+        "price": 12.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec8",
+        "name": "Minestrone Soup",
+        "recipe": "Vegetables, beans, and pasta in tomato broth",
+        "image": "/images/recipes/img29.png",
+        "category": "Soups",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec7",
+        "name": "Chicken Noodle Soup",
+        "recipe": "Chicken, noodles, carrots, and celery",
+        "image": "/images/recipes/img30.png",
+        "category": "Soups",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec6",
+        "name": "Tomato Basil Soup",
+        "recipe": "Tomatoes, basil, and cream",
+        "image": "/images/recipes/img31.png",
+        "category": "Soups",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eecb",
+        "name": "Clam Chowder",
+        "recipe": "Clams, potatoes, and cream",
+        "image": "/images/recipes/img32.png",
+        "category": "popular",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eecd",
+        "name": "Lentil Soup",
+        "recipe": "Lentils, vegetables, and spices",
+        "image": "/images/recipes/img33.png",
+        "category": "Soups",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eec9",
+        "name": "French Onion Soup",
+        "recipe": "Caramelized onions, beef broth, and cheese",
+        "image": "/images/recipes/img34.png",
+        "category": "Soups",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eecc",
+        "name": "Butternut Squash Soup",
+        "recipe": "Butternut squash, cream, and spices",
+        "image": "/images/recipes/img35.png",
+        "category": "Soups",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Vegetable Soup",
+        "recipe": "Mixed vegetables in vegetable broth",
+        "image": "/images/recipes/img36.png",
+        "category": "Soups",
+        "price": 6.49
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeca",
+        "name": "Broccoli Cheddar Soup",
+        "recipe": "Broccoli, cheddar cheese, and cream",
+        "image": "/images/recipes/img37.png",
+        "category": "Soups",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eecf",
+        "name": "Cream of Mushroom Soup",
+        "recipe": "Mushrooms, cream, and herbs",
+        "image": "/images/recipes/img38.png",
+        "category": "Soups",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed0",
+        "name": "Wonton Soup",
+        "recipe": "Wontons, chicken broth, and vegetables",
+        "image": "/images/recipes/img39.png",
+        "category": "Soups",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed2",
+        "name": "Chicken Tortilla Soup",
+        "recipe": "Chicken, tortilla strips, and avocado",
+        "image": "/images/recipes/img40.png",
+        "category": "Soups",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed3",
+        "name": "Italian Wedding Soup",
+        "recipe": "Meatballs, spinach, and pasta in chicken broth",
+        "image": "/images/recipes/img41.png",
+        "category": "Soups",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed4",
+        "name": "Tom Yum Soup",
+        "recipe": "Shrimp, mushrooms, and spicy broth",
+        "image": "/images/recipes/img42.png",
+        "category": "Soups",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed5",
+        "name": "Chocolate Cake",
+        "recipe": "Chocolate cake with chocolate frosting",
+        "image": "/images/recipes/img43.png",
+        "category": "Desserts",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed6",
+        "name": "Cheesecake",
+        "recipe": "Cream cheese, graham cracker crust, and berry topping",
+        "image": "/images/recipes/img44.png",
+        "category": "Desserts",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed8",
+        "name": "Apple Pie",
+        "recipe": "Apples, cinnamon, and flaky crust",
+        "image": "/images/recipes/img45.png",
+        "category": "Desserts",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed7",
+        "name": "Brownie",
+        "recipe": "Chocolate brownie with walnuts",
+        "image": "/images/recipes/img46.png",
+        "category": "Desserts",
+        "price": 3.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eed9",
+        "name": "Tiramisu",
+        "recipe": "Ladyfingers, mascarpone, and espresso",
+        "image": "/images/recipes/img47.png",
+        "category": "Desserts",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeda",
+        "name": "Lemon Meringue Pie",
+        "recipe": "Lemon filling with meringue topping",
+        "image": "/images/recipes/img48.png",
+        "category": "Desserts",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eede",
+        "name": "Panna Cotta",
+        "recipe": "Cream, sugar, and vanilla with berry sauce",
+        "image": "/images/recipes/img49.png",
+        "category": "Desserts",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eedb",
+        "name": "Ice Cream Sundae",
+        "recipe": "Vanilla ice cream with chocolate sauce and nuts",
+        "image": "/images/recipes/img50.png",
+        "category": "Desserts",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eedc",
+        "name": "Pavlova",
+        "recipe": "Meringue, whipped cream, and fresh fruit",
+        "image": "/images/recipes/img51.png",
+        "category": "Desserts",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eedd",
+        "name": "Chocolate Mousse",
+        "recipe": "Chocolate mousse with whipped cream",
+        "image": "/images/recipes/img52.png",
+        "category": "popular",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eedf",
+        "name": "Eclair",
+        "recipe": "Pastry filled with cream and topped with chocolate",
+        "image": "/images/recipes/img53.png",
+        "category": "Desserts",
+        "price": 3.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee0",
+        "name": "Baklava",
+        "recipe": "Phyllo dough, nuts, and honey",
+        "image": "/images/recipes/img54.png",
+        "category": "Desserts",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee1",
+        "name": "Strawberry Shortcake",
+        "recipe": "Shortcake, strawberries, and whipped cream",
+        "image": "/images/recipes/img55.png",
+        "category": "Desserts",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee3",
+        "name": "Crème Brûlée",
+        "recipe": "Custard with a caramelized sugar top",
+        "image": "/images/recipes/img56.png",
+        "category": "Desserts",
+        "price": 5.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36ecb3",
+        "name": "Coffee",
+        "recipe": "Freshly brewed coffee",
+        "image": "/images/recipes/img57.png",
+        "category": "Drinks",
+        "price": 2.49
+    },
+    {
+        "_id": "642c155b2c4774f05c36ecb5",
+        "name": "Tea",
+        "recipe": "Assorted teas",
+        "image": "/images/recipes/img58.png",
+        "category": "Drinks",
+        "price": 2.29
+    },
+    {
+        "_id": "642c155b2c4774f05c36ecb6",
+        "name": "Orange Juice",
+        "recipe": "Freshly squeezed orange juice",
+        "image": "/images/recipes/img59.png",
+        "category": "Drinks",
+        "price": 3.49
+    },
+    {
+        "_id": "642c155b2c4774f05c36ecb8",
+        "name": "Milkshake",
+        "recipe": "Milk and ice cream blended with flavors",
+        "image": "/images/recipes/img60.png",
+        "category": "Drinks",
+        "price": 4.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36ec7e",
+        "name": "Soda",
+        "recipe": "Carbonated soft drink",
+        "image": "/images/recipes/img61.png",
+        "category": "Drinks",
+        "price": 1.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Smoothie",
+        "recipe": "Blended fruit with yogurt",
+        "image": "/images/recipes/img62.png",
+        "category": "Drinks",
+        "price": 3.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Iced Coffee",
+        "recipe": "Cold brewed coffee with ice",
+        "image": "/images/recipes/img63.png",
+        "category": "Drinks",
+        "price": 3.29
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee9",
+        "name": "Bloody Mary",
+        "recipe": "Vodka, tomato juice, and spices",
+        "image": "/images/recipes/img64.png",
+        "category": "Drinks",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeed",
+        "name": "Manhattan",
+        "recipe": "Whiskey, vermouth, and bitters",
+        "image": "/images/recipes/img65.png",
+        "category": "Drinks",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee4",
+        "name": "Margarita",
+        "recipe": "Tequila, lime juice, and triple sec",
+        "image": "/images/recipes/img66.png",
+        "category": "Drinks",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee5",
+        "name": "Mojito",
+        "recipe": "Rum, mint, lime juice, and soda water",
+        "image": "/images/recipes/img67.png",
+        "category": "Drinks",
+        "price": 6.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee6",
+        "name": "Pina Colada",
+        "recipe": "Rum, coconut cream, and pineapple juice",
+        "image": "/images/recipes/img68.png",
+        "category": "Drinks",
+        "price": 7.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee7",
+        "name": "Old Fashioned",
+        "recipe": "Whiskey, sugar, and bitters",
+        "image": "/images/recipes/img69.png",
+        "category": "Drinks",
+        "price": 8.99
+    },
+    {
+        "_id": "642c155b2c4774f05c36eee8",
+        "name": "Martini",
+        "recipe": "Gin and vermouth with an olive",
+        "image": "/images/recipes/img70.png",
+        "category": "popular",
+        "price": 8.99
+    }   
+]
